@@ -1,6 +1,6 @@
 # 水箱水位控制系统（模糊PID控制器）
 
-![](F:\open_github\fuzzy_control\photo\001.jpg)
+![image](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/001.jpg)
 
 ## 系统设定
 
@@ -15,7 +15,7 @@
 
 ## 系统设计
 
-![](F:\open_github\fuzzy_control\photo\002.jpg)
+![image](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/002.jpg)
 
 ### 步骤
 
@@ -51,7 +51,7 @@ eu（导，速度）：
 | ---- | ---- | ---- | ---- | ---- |
 | -20  | -10  | 0    | 10   | 20   |
 
-![](F:\open_github\fuzzy_control\photo\003.jpg)
+![image](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/003.jpg)
 
 收敛速度
 
