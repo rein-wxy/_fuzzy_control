@@ -145,7 +145,7 @@ Matlab
 
 1. 振幅0-21
 
-![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/013.jpg)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/014.jpg)
 
 1. 振幅0-4                                                           
 
