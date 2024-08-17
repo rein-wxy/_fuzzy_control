@@ -1,4 +1,4 @@
-# 水箱水位控制系统（模糊PID控制器）
+![t02](https://github.com/user-attachments/assets/20527f73-ebea-4550-bfed-3cc0e589c0bd)# 水箱水位控制系统（模糊PID控制器）
 
 ![image](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/001.jpg)
 
@@ -51,7 +51,7 @@ eu（导，速度）：
 | ---- | ---- | ---- | ---- | ---- |
 | -20  | -10  | 0    | 10   | 20   |
 
-![image](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/003.jpg)
+![image](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/t01.png)
 
 收敛速度
 
@@ -65,7 +65,7 @@ eu（导，速度）：
 | PS   | PS NS NB | ZE ZE NS | NS PS NS | NS PS ZE | NB PB PS |
 | PB   | ZE ZE PS | NS PS ZE | NS PS ZE | NB PB ZE | NB PB PS |
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=ZWViYjczZTMzN2Q0ZDkwMmVmMjYwMWRjZTQ1OGFhNmVfMTM3VlZVM2p6SUNzWW54VWpaMUdwSUttcFhIVTJrOHVfVG9rZW46UGpBNGJkQzZkb1VMTnF4V0JjVGNnMWhUbmI3XzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/t02.PNG)
 
 Matlab
 
@@ -121,15 +121,15 @@ Matlab
 
 #### 第一步：P，添加比例系统响应，在目标值附近振荡
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=MWYxNDBlOTA2Y2FiYWJjZmNkNjVmM2M3YmNmOTU3YjVfYkZucHpOV29lNzI1ZHU3UXpBR20xekJlMDM0Y0pobllfVG9rZW46WGtHbGJ1TG5Xb2ptS2x4b1Z2RWNxTVByblhlXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/pid01.png)
 
 #### 第二步:D,添加微分阻尼抑制，线条平缓
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=NWQzZWI0YjM2MWRmYTY3NWM4NjQ0MGVlMTFhOGZiM2Ffc2RSWHdHcEtjb2xMOUpKY1VDOTE1dlBxU2RkdjBaVWNfVG9rZW46SldVM2JyMkc5b2ZpM3Z4TXN2emMzc09zbkJmXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/pid02.png)
 
 #### 第三步：I，引入积分，消除静态误差
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=NDdlNGQ3MTQ1OGEyOTE1Y2Q0MWFlYWMzZDY2OTMzODVfemQ3QzhYSlJMU3dxamNuVXNaS1ZoMk9uWDVjSTZVUlBfVG9rZW46QTJ5OGIzMFp6b3Q1N2p4cFJRMmNoMFVpbnloXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/pid03.png)
 
 #### 参数整定完成
 
@@ -137,7 +137,7 @@ Matlab
 
 红线：模糊PID
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=YTEwMjUxMmQ3ZGNiZWY0ODIxZjhlZjBjYTg5ZDIyNmJfRUhVb2xISm9xRWNBNlhSWm12YTFRWFVqMUtHU2NyNFVfVG9rZW46QlBhTGJDUFZsb0x3c3l4ZXVrZWN3Zm1nbmtoXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/pid04.png)
 
 ## 现象结论
 
