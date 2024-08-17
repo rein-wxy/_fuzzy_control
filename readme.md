@@ -79,17 +79,17 @@ Matlab
 
 多输入，多输出
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=NjE1MTI4NzE4ZDBiMDBiNDUwOTlkOGZkZDE5Mjk3MGVfeE16ZVczMUhlMzBvRDZRaWtDOW9rVlllZFNnczg2REVfVG9rZW46RWs1NGJXVlRLb0dRS0l4OFYwN2NvWEIzbm1iXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/004.png)
 
 均采用三角形，为隶属函数（计算论域简单，方便）
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=MmNjMjVmMGRkMjI0MGY5Y2VmOTc2MjQ1Zjg4MDM4OTBfRXFJZ0JIMXNCcE12eEdBSWlhdFB4VVhkR0ZGQzNZYUlfVG9rZW46UnlIOWJrTmZDb0FQaVl4a3RZYmNQRFZlbksyXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/005.png)
 
 模糊规则借鉴论文
 
 递进，逼近
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=MDBjYTIwZTQ1MjU2ZjUzM2IzNzZhZmJkZThlY2JhMmRfaFlqSnYzZnZ2N21uQVY1TTU3dU1UYWZWR1R3V2x4SXBfVG9rZW46SGhXR2JHSFEyb3FkQzl4YnppQ2NPeWNsbmlmXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/007.png)
 
 去模糊化
 
@@ -101,7 +101,7 @@ Matlab
 
 下半部分：模糊pid参数控制
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmVjZDkwOTg0YzYzMDcyZWNmNjM3YmQzNWI2MTM0NzVfV3J6Y1d1WHVCdGFGbXoySjJSWGRuNnlNR2M3Q21XSnpfVG9rZW46Q2xnWmJ1VGtub3V1VUV4ZVhIQ2N6N0dUbkNmXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/009.png)
 
 ### PID
 
@@ -145,11 +145,11 @@ Matlab
 
 1. 振幅0-21
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=ODUwMzgyZTg3ZjI2OTlhN2NiNjdjZjZlZTMyY2E1OGNfQWYycFc4MDdxbWJpQUViZndrbnlCNWVxemdYUHU2dE5fVG9rZW46QzR3b2JETmYyb1VCOTR4ck1wcGNhd1FVblhnXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=MjkwYTlmZjMzZjgwZjRlMjhkMWYwMTdlNWE2MjMxYjVfNVl6ZDNOSU5HcmhNdExWaVBuOFFuYnVrc2F6bTB1VnRfVG9rZW46TWNpaGJWd1hOb045VWt4YjZqZWN3dUpEbkZTXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/013.jpg)
 
 1. 振幅0-4                                                           
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTc3MThhODQzMmY3ZjA4YWI2YjM3MTg5YmMyMzNkYTRfU004UXRqTTV5MXdMSlRiMTBVUjVkVjJxSUk5WjVVN2VfVG9rZW46VlRJMWJCOWN0b1hRUUp4NGMzOGNZY2Z2bkIxXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2Q3MzEwNDM4YzA2ZTJkNTIzYTU5Mzc1OGQ0NTNkYWFfSGwweTNHanA5dTgweXo1UHZJRU10QU5qOGVDSVZDbmhfVG9rZW46Tm1nWmJwN2cwb1NkMVR4T1dubWNTQjEybkVnXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/015.jpg)
 
 **对比其控制效果差距微乎其微**
 
@@ -160,9 +160,8 @@ Matlab
 
 #### 当系统传递函数改变
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=ODZkNjc0MjIxYWQxNjUyYzc0NDNiOTJjOWJhM2Y0N2JfSFNjYUJnTkRmM0U2SXlBV3RoWGlST2lYYmc0MlBVQWtfVG9rZW46SkFmc2J3aTRxb1lxaGZ4VnZYWWNEQTRqbkdlXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
 
-![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=MzYyNDc0YmM5M2ExNDc3NTlkYjllYTFiNmRmZjc5NGZfNFlKMWRWSktSeEZXMXdyTFB3S1pOWTRXQTVJY2RnNElfVG9rZW46UE04T2JZT1BibzEyT0J4WTQzZWNLUmQxbndnXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)![img](https://k10kkja70f2.feishu.cn/space/api/box/stream/download/asynccode/?code=YzE3ZTFiMWQzZjQ5MTAyOWU1ZDY1MTg4ZGVlMzUyYTRfNXBkMEs4UXhlOGJ0Y21xOUxqcVFMeldiVkFDTlRzNHhfVG9rZW46V2VWUGJPV2Vrb2EwMk54WERTdGNDZ2ZFbjJkXzE3MjM4MjE1MTg6MTcyMzgyNTExOF9WNA)
+![img](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/016.jpg)
 
 **模糊****PID****控制器效果明显优于定参数PID**
 
