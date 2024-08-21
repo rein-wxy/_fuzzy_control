@@ -1,4 +1,4 @@
-![t02](https://github.com/user-attachments/assets/20527f73-ebea-4550-bfed-3cc0e589c0bd)# 水箱水位控制系统（模糊PID控制器）
+# 水箱水位控制系统（模糊PID控制器）
 
 ![image](https://github.com/rein-wxy/_fuzzy_control/blob/main/photo/001.jpg)
 
